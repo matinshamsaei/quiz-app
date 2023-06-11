@@ -1,3 +1,5 @@
 # Quiz App
 
-one of my first html, css, js projects
+This project has been built with HTMl, CSS and Javascript and it is the begging of my JOURNEY :)
+
+you can see it here : https://matinshamsaei.github.io/quiz-app/
